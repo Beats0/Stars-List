@@ -21,6 +21,8 @@
 - [axios/axios](https://github.com/axios/axios) Promise based HTTP client for the browser and node.js
 - [zeit/next.js](https://github.com/zeit/next.js) Framework for server-rendered or statically-exported React apps
 - [processing/p5.js](https://github.com/processing/p5.js) 形状绘制
+- [michalsnik/aos](https://github.com/michalsnik/aos) Animate on scroll library 滚动处理动画
+- [AlloyTeam/AlloyFinger](https://github.com/AlloyTeam/AlloyFinger) 技术手势库
 - [liabru/matter-js](https://github.com/liabru/matter-js) a 2D rigid body physics engine for the web
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) JavaScript Animation Engine
 - [goldfire/howler.js](https://github.com/goldfire/howler.js) HTML5声音引擎
@@ -53,6 +55,7 @@
 - [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial) 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
 - [i5ting/nodejs-fullstack](https://github.com/i5ting/nodejs-fullstack) 高可用架构专用《全栈工程师之路-Node.js》
 - [supperjet/H5-Animation](https://github.com/supperjet/H5-Animation) 每周一点canvas动画代码文件
+- [chenhuiYj/ec-do](https://github.com/chenhuiYj/ec-do) 实例为日常开发常用的小实例，包括数组去重，打乱数组，字母大小写转换，cookie操作的封装等
 - [airbnb/javascript](https://github.com/airbnb/javascript) JavaScript Style Guide
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) 免费的计算机编程类中文书籍，欢迎投稿 http://weibo.com/justjavac
 - [webpack/webpack](https://github.com/webpack/webpack) webpack打包
@@ -177,11 +180,13 @@
 
 ### Blog
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台
+- [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
+- [mqyqingfeng/Wheels](https://github.com/mqyqingfeng/Wheels) 一起造轮子，如果你想造些轮子，不妨可以看看这里
+- [SimplyWenjing/ES6](https://github.com/SimplyWenjing/ES6)  ES6的学习笔记and代码练习
 - [livoras/blog](https://github.com/livoras/blog) livoras blog
 - [jawil/blog](https://github.com/jawil/blog)
 - [lifesinger/blog](https://github.com/lifesinger/blog) 岁月如歌
 - [FrankFang/best-chinese-front-end-blogs](https://github.com/FrankFang/best-chinese-front-end-blogs) 收集优质的中文前端博客
-- [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
 - [markyun/My-blog](https://github.com/markyun/My-blog) 马云云在Github的学习片段
 - [ecmadao/Coding-Guide](https://github.com/ecmadao/Coding-Guide) 随手记录的东西
 - [nieweidong/fetool](https://github.com/nieweidong/fetool) 大前端的瑞士军刀，只记录有用的
